@@ -214,7 +214,7 @@ You'll see some C, C++, and Python learning included below, because I'm learning
     - [x] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
 - [ ] **How floating point numbers are stored:**
-    - [ ] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
+    - [x] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
     - [ ] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
     - [ ] 64 bit: https://www.youtube.com/watch?v=50ZYcZebIec
 
